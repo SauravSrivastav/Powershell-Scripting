@@ -1,0 +1,26 @@
+Aliases:
+
+                                                           Verb-Noun(Singular)
+
+        get-host : Version of the Powershell.
+
+        get-process :It will list all the processes.
+
+        get-childitem / ls / dir(aliases) :It will list all the directory in the current folder.
+
+        get-service / ps(alias of get-service) : It will list all the processes running in our computer.
+
+        get-command : It will list out all the commands which are there in Powershell.
+                      *(get-command).count:4741  
+
+        get-alias: List out all the aliases related to Powershell commands.
+                   *(get-alias).count:158
+
+
+Copy Folder: copy-item C:\test1 C:\test2
+
+Copy Folder items:copy-item C:\test1 C:\test2 -recurse
+       
+        
+
+      

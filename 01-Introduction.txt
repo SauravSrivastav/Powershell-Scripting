@@ -1,0 +1,48 @@
+* An Automation framework with CLI and Scripting language.
+
+* NOT a replacement for Command Promt.
+
+* NOT a programming language like C# or Java.
+
+* Easy to understand and use.
+
+* Automate repetetive tasks.
+
+* Countless possibilities of quering and reporting.
+
+
+
+                                                             
+
+                                                                         ___Graphical User Interface(GUI)__
+
+
+                                                                          ___________Powershell____________
+
+
+                                                                         ______________Exchange_________________
+
+
+
+**********************************************************************************History*******************************************************************************
+Powershell 1.0 -2006
+
+Powershell 2.0 -2009
+
+Powershell 3.0 -2012
+
+Powershell 4.0 -2013
+
+Powershell 5.0 -2014
+
+
+
+
+*Windows Management Framework has:
+
+1)Powershell
+
+2)WinRM(Windows Remote Management)
+
+3)BITS(Background Intelligent Transfer Service)
+

@@ -1,0 +1,10 @@
+*get-childitem : dir and ls give a same result(alias).
+
+*cd .. :it will went a level up.
+*cd.. :it will also do the same thing as above.
+
+*TO CREATE A SUBFOLDER: md subfolder1 or mkdir subfolder2.
+
+*Version of Poweshell :get-host.
+
+*To upgrade version of Powershell:Download Windows Management Framework.
